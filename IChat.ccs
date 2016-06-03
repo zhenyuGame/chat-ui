@@ -1,0 +1,18 @@
+<Solution>
+  <PropertyGroup Name="IChat" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="res">
+          <Image Name="back8.png" />
+          <Image Name="board.png" />
+          <Image Name="btnOK.png" />
+          <Image Name="btnOKdown.png" />
+          <Image Name="information_board.png" />
+          <Image Name="message.png" />
+        </Folder>
+        <Project Name="chatLayer.csd" Type="Layer" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
