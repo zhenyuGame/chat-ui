@@ -4,12 +4,16 @@
     <Group ctype="ResourceGroup">
       <RootFolder Name=".">
         <Folder Name="res">
+          <Image Name="back3.png" />
           <Image Name="back8.png" />
           <Image Name="board.png" />
           <Image Name="btnOK.png" />
           <Image Name="btnOKdown.png" />
+          <Image Name="contant_board.png" />
           <Image Name="information_board.png" />
           <Image Name="message.png" />
+          <Image Name="phone_login.png" />
+          <Image Name="phone_logindown.png" />
         </Folder>
         <Project Name="chatLayer.csd" Type="Layer" />
       </RootFolder>
